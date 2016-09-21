@@ -1,0 +1,8 @@
+###############################
+## IGNORE FILE PYTHON        ##
+###############################
+
+# ignore big ass file
+.idea\*
+__pycache__/*
+*.pyc
